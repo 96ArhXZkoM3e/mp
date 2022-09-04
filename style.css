@@ -8,6 +8,8 @@
 {
     border-width:10px;
     border-style:ridge;
+	background:url(ground.png);
+
 	background-color:forestgreen;
 }
 
